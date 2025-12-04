@@ -97,12 +97,7 @@ const HeroSection = () => {
           </span>
         </h1>
         
-        <p 
-          ref={subtitleRef}
-          className="text-xl md:text-2xl text-foreground/70 mb-8 max-w-3xl mx-auto"
-        >
-          Full-Stack Developer crafting digital experiences with cutting-edge technology
-        </p>
+        
         
       </div>
 

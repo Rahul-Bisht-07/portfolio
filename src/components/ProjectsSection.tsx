@@ -54,7 +54,7 @@ const ProjectsSection = () => {
       id: 1,
       title: "VibeScript Programming Language",
       description: "A beginner-focused programming language with Gen-Z inspired syntax designed to improve engagement among first-time coders. Features a web-based smart IDE with intuitive Python backend for compilation, achieving 43% reduction in beginner implementation errors during peer testing with 20+ students.",
-      image: "/images/vibe.png",
+      image: "/images/project-1.png",
       tech: ["Python", "HTML", "CSS", "JavaScript", "Compiler Design"],
       gradient: "from-neon-purple to-neon-cyan"
     },
@@ -62,7 +62,7 @@ const ProjectsSection = () => {
       id: 2,
       title: "Traffic OS Scheduler Simulation",
       description: "Real-time traffic signal simulator implementing Round Robin, SJF, and Priority Scheduling algorithms. Reduced average vehicle wait time by 40% across 100+ scenarios through an interactive HTML/CSS/JavaScript web application with advanced scheduling optimizations.",
-      image: "/lovable-uploads/afc5d50d-c7c3-4e52-a42e-aa933f8d34ee.png",
+      image: "/images/project-2.png",
       tech: ["JavaScript", "HTML", "CSS", "Algorithms", "Simulation"],
       gradient: "from-neon-cyan to-neon-blue"
     },
@@ -70,7 +70,7 @@ const ProjectsSection = () => {
       id: 3,
       title: "AI Virtual Mouse",
       description: "Python-based AI Virtual Mouse using OpenCV and MediaPipe, delivering 95% gesture recognition accuracy within a 5-meter range. Demonstrates core expertise in real-time computer vision and human-computer interaction with advanced hand tracking",
-      image: "/lovable-uploads/d6bdc233-3268-45c2-bee3-bcf4da5f0cdd.png",
+      image: "/images/project-3.png",
       tech: ["Python", "OpenCV", "MediaPipe", "Computer Vision", "AI"],
       gradient: "from-neon-pink to-neon-purple"
     },
@@ -78,7 +78,7 @@ const ProjectsSection = () => {
       id: 4,
       title: "Traffic Sign Detection YOLOv8",
       description: "Deep learning model with 92% mAP performance for accurate traffic sign detection and classification in real-time scenarios.",
-      image: "/lovable-uploads/7c357375-891d-4263-bc59-97483c31013f.png",
+      image: "/images/project-4.png",
       tech: ["Python", "YOLOv8", "Deep Learning", "Computer Vision", "AI"],
       gradient: "from-neon-blue to-neon-cyan"
     }

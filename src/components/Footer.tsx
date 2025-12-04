@@ -72,10 +72,7 @@ const Footer = () => {
             <div className="text-3xl font-bold bg-gradient-primary bg-clip-text text-transparent">
               Rahul Bisht
             </div>
-            <p className="text-foreground/70 text-sm leading-relaxed">
-              Full-Stack Developer passionate about creating immersive digital experiences 
-              with modern web technologies.
-            </p>
+           
           </div>
 
           {/* Navigation */}
@@ -127,7 +124,7 @@ const Footer = () => {
           </p>
           
           <div className="flex items-center gap-4 text-foreground/60 text-sm">
-            <span>Built with GSAP, React & Spline</span>
+            
           </div>
         </div>
       </div>

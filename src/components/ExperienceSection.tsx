@@ -65,7 +65,7 @@ const ExperienceSection = () => {
             National Informatics Centre (NIC) - Dehradun
           </p>
           <p className="text-foreground/70">
-            August 2025 - October 2025
+            August 2025 - October 2025 
           </p>
         </div>
 
